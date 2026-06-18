@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Valdenir, eu amo você. Se você me ama, da uma risadinha!</h1>
+    return <h1>Teste de deploy na Vercel.</h1>
 }
 
 export default Home;
